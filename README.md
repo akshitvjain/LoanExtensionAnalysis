@@ -1,6 +1,6 @@
 # LendingClub Loan Extension Analysis 
 
-This project aims to analyze data for loans through 2007-2015 from Lending Club available on Kaggle. Dataset contains over 887 thousand observations and 74 variables among which one is describing the loan status. 
+This project aims to analyze data for loans through 2007-2015 from Lending Club available on Kaggle. Dataset contains over 887K observations and 74 variables among which one is describing the loan status. 
 
 # Scope	
 
